@@ -1,9 +1,11 @@
 *{
     margin: 0;
     padding: 0;
+    font-family: 'sans-serif';
 }
 
 p{
     background-color: aqua;
     color: black;
+    font-size: 24px;
 }
